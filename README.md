@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @sagelawrence04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @sagelawrence04 (Sage)
+***About Me***
+-
+**👀 I’m interested in ...**
+- iOS Development
+- Software Development
+- Database Management
 
-<!---
-sagelawrence04/sagelawrence04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🌱 I’m currently learning ...**
+- C#
+- Swift
+- JavaScript Frameworks
+
+***Skills***
+-
+- Java
+- HTML/CSS
